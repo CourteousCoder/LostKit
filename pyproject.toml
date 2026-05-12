@@ -1,0 +1,9 @@
+[project]
+name = "lostkit"
+version = "1.1.0"
+description = "LostKit – A 2004Scape / Lost City client that recreates the authentic RuneScape aesthetic, complete with built-in IRC chat support and World Switcher. Achieves the classic experience without modifying the original client."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pyqt6-webengine>=6.11.0",
+]

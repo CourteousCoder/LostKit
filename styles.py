@@ -287,7 +287,7 @@ def get_tool_urls():
         "Clue Scroll Help": "https://razgals.github.io/Treasure/",
         "World Map": "https://2004.lostcity.rs/worldmap", 
         "Highscores": "https://2004.lostcity.rs/hiscores",
-        "Market Prices": "https://lostcity.markets",
+        "Market Prices": "https://markets.lostcity.rs",
         "Quest Help": "https://2004.losthq.rs/?p=questguides",
         "Skill Guides": "https://2004.losthq.rs/?p=skillguides",
         "Skills Calculator": "https://2004.losthq.rs/?p=calculators",
